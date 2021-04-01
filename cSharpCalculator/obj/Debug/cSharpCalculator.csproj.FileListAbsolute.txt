@@ -1,0 +1,8 @@
+C:\Users\Anti\source\repos\cSharpCalculator\cSharpCalculator\bin\Debug\cSharpCalculator.exe.config
+C:\Users\Anti\source\repos\cSharpCalculator\cSharpCalculator\bin\Debug\cSharpCalculator.exe
+C:\Users\Anti\source\repos\cSharpCalculator\cSharpCalculator\bin\Debug\cSharpCalculator.pdb
+C:\Users\Anti\source\repos\cSharpCalculator\cSharpCalculator\obj\Debug\cSharpCalculator.csprojAssemblyReference.cache
+C:\Users\Anti\source\repos\cSharpCalculator\cSharpCalculator\obj\Debug\cSharpCalculator.Properties.Resources.resources
+C:\Users\Anti\source\repos\cSharpCalculator\cSharpCalculator\obj\Debug\cSharpCalculator.csproj.GenerateResource.cache
+C:\Users\Anti\source\repos\cSharpCalculator\cSharpCalculator\obj\Debug\cSharpCalculator.exe
+C:\Users\Anti\source\repos\cSharpCalculator\cSharpCalculator\obj\Debug\cSharpCalculator.pdb
